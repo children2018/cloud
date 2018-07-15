@@ -1,0 +1,11 @@
+spring:
+   application:
+      name: cloud-server
+
+server:
+  port: 8021
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/

@@ -1,0 +1,11 @@
+spring:
+   application:
+      name: cloud-feign
+
+server:
+  port: 8011
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/
