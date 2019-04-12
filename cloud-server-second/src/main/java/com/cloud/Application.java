@@ -18,6 +18,10 @@ public class Application {
 	RestTemplate restTemplate() {
 		return new RestTemplate();
 	}
+	
+	public String abc() {
+		return null;
+	}
 
 	public static void main(String[] args) {
 		System.out.println("yaya///32143243大厦大厦大厦大厦大厦磊");
