@@ -19,13 +19,13 @@ public class Application {
 		return new RestTemplate();
 	}
 	
-	public String ABC() {
+	public String abc11112222222222222222355555555() {
 		return null;
 	}
 
-	public static void main(String[] AAAAAAAAAAAAAAA) {
+	public static void main(String[] argssssssssssssssSSS11111111111) {
 		System.out.println("y");
-		SpringApplication.run(Application.class, AAAAAAAAAAAAAAA);
+		SpringApplication.run(Application.class, argssssssssssssssSSS11111111111);
 		System.out.println("game");
 	}
 }
