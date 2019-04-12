@@ -23,9 +23,9 @@ public class Application {
 		return null;
 	}
 
-	public static void main(String[] A) {
+	public static void main(String[] AAAAAAAAAAAAAAAA) {
 		System.out.println("y");
-		SpringApplication.run(Application.class, A);
+		SpringApplication.run(Application.class, AAAAAAAAAAAAAAAA);
 		System.out.println("game");
 	}
 }
