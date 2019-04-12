@@ -19,12 +19,12 @@ public class Application {
 		return new RestTemplate();
 	}
 	
-	public String abc() {
+	public String abc1111() {
 		return null;
 	}
 
 	public static void main(String[] args) {
-		System.out.println("yaya///32143243大厦大厦大厦大厦大厦磊");
+		System.out.println("yaya///32143243大厦大厦大厦大厦大厦磊2222");
 		SpringApplication.run(Application.class, args);
 		System.out.println("game over...aaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 	}
