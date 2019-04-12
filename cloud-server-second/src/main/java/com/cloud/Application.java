@@ -24,7 +24,7 @@ public class Application {
 	}
 
 	public static void main(String[] fdsafdsfdsaf) {
-		System.out.println("ysssa111222");
+		System.out.println("33333");
 		SpringApplication.run(Application.class, fdsafdsfdsaf);
 		System.out.println("gameddd");
 	}
