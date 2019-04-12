@@ -23,6 +23,6 @@ public class Application {
 		System.out.println("yaya///");
 		System.out.println("fdskf");
 		SpringApplication.run(Application.class, args);
-		System.out.println("game over...");
+		System.out.println("game over...1");
 	}
 }
