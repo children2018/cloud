@@ -23,9 +23,9 @@ public class Application {
 		return null;
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] argssssssssssssssssssssss) {
 		System.out.println("yaya///32143243大厦大厦大厦大厦大厦磊");
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(Application.class, argssssssssssssssssssssss);
 		System.out.println("game over...aaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 	}
 }
