@@ -20,7 +20,7 @@ public class Application {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("yaya///");
+		System.out.println("yaya///32143243");
 		SpringApplication.run(Application.class, args);
 		System.out.println("game over...1");
 	}
