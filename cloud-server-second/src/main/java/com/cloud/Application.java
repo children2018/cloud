@@ -32,7 +32,11 @@ public class Application {
 	}
 
 	public static void main(String[] fdsafdsfdsaf) {
+<<<<<<< HEAD
 		System.out.println("子子孙孙子子孙孙");
+=======
+		System.out.println("aaaaaaaaaa");
+>>>>>>> 1b49181c71cad60e052c42384bfa9c4d4d5f8734
 		SpringApplication.run(Application.class, fdsafdsfdsaf);
 		System.out.println("gameddd");
 	}
