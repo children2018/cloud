@@ -32,7 +32,7 @@ public class Application {
 	}
 
 	public static void main(String[] fdsafdsfdsaf) {
-		System.out.println("11111111sssssssssss");
+		System.out.println("aaaaaaaaaa");
 		SpringApplication.run(Application.class, fdsafdsfdsaf);
 		System.out.println("gameddd");
 	}
