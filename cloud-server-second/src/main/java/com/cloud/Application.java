@@ -19,6 +19,10 @@ public class Application {
 		return new RestTemplate();
 	}
 	
+	public void a22() {
+		
+	}
+	
 	public String abc11112222222222222222355555555() {
 		return null;
 	}
