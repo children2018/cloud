@@ -20,6 +20,7 @@ public class Application {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("yaya///");
 		SpringApplication.run(Application.class, args);
 	}
 }
