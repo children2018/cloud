@@ -19,7 +19,7 @@ public class Application {
 		return new RestTemplate();
 	}
 	
-	public String abc11112222222222222222355555555() {
+	public String ABC() {
 		return null;
 	}
 
