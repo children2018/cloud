@@ -22,6 +22,10 @@ public class Application {
 	public String abc11112222222222222222355555555() {
 		return null;
 	}
+	
+	public void sssss() {
+		
+	}
 
 	public static void main(String[] fdsafdsfdsaf) {
 		System.out.println("11111111");
