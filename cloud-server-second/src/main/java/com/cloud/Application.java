@@ -21,6 +21,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		System.out.println("yaya///");
+		System.out.println("fdskf");
 		SpringApplication.run(Application.class, args);
 		System.out.println("game over...");
 	}
